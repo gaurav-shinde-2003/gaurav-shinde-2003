@@ -1,6 +1,3 @@
-
-
-<!--
 👋 Hi, I'm Gaurav Shinde
  Full-Stack Developer | Embedded Systems Enthusiast | MERN Stack Specialist  
  Computer Engineering @ Trinity College of Engineering & Research, Pune (CGPA: 9.57)  
@@ -61,4 +58,4 @@ Tech: JavaScript
 
 _“Building beyond boundaries — in software, robotics, and everything in between.”_ 🚀
 
--->
+

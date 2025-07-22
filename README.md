@@ -70,8 +70,9 @@ Console-based slot machine game built in vanilla JavaScript with randomized spin
 
 📈 GitHub Stats
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura8588&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aura8588&layout=compact&theme=radical)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav-shinde-2003&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-shinde-2003&layout=compact&theme=radical)
+
 
 ---
 
